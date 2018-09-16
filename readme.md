@@ -1,7 +1,8 @@
 # Intro
 1. `npm i parse-server express`
-2. `app.js`: Server configuration <br>
-3. Interact with the server via Parse SDK or REST API 
+2.  `cloud/main.js`: Cloud functions definition <br>
+3. `app.js`: Server configuration <br>
+4. Interact with the server via Parse SDK or REST API 
 
 # Interact with server (and database) via REST API
 List of all operations: [API Quick Reference](https://docs.parseplatform.org/rest/guide/#quick-reference)
