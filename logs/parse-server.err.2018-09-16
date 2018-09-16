@@ -1,2 +1,10 @@
 {"error":{"code":102,"message":"Invalid parameter for query: playerName"},"level":"error","message":"Error handling request: ParseError {\n  code: 102,\n  message: 'Invalid parameter for query: playerName' }","timestamp":"2018-09-16T09:06:58.734Z"}
 {"code":102,"message":"Invalid parameter for query: playerName","level":"error","timestamp":"2018-09-16T09:06:58.737Z"}
+{"error":{"code":141,"message":"Invalid function: \"countGamersd\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"countGamersd\"' }","timestamp":"2018-09-16T09:30:35.234Z"}
+{"code":141,"message":"Invalid function: \"countGamersd\"","level":"error","timestamp":"2018-09-16T09:30:35.236Z"}
+{"functionName":"countGamers","error":{"code":141,"message":"response.success is not a function"},"params":{"level":"20\n"},"level":"error","message":"Failed running cloud function countGamers for user undefined with:\n  Input: {\"level\":\"20\\n\"}\n  Error: {\"code\":141,\"message\":\"response.success is not a function\"}","timestamp":"2018-09-16T09:34:20.291Z"}
+{"code":141,"message":"response.success is not a function","level":"error","timestamp":"2018-09-16T09:34:20.294Z"}
+{"functionName":"countGamers","error":{"code":141,"message":"response.success is not a function"},"params":{"level":"20\n"},"level":"error","message":"Failed running cloud function countGamers for user undefined with:\n  Input: {\"level\":\"20\\n\"}\n  Error: {\"code\":141,\"message\":\"response.success is not a function\"}","timestamp":"2018-09-16T09:35:56.911Z"}
+{"code":141,"message":"response.success is not a function","level":"error","timestamp":"2018-09-16T09:35:56.914Z"}
+{"functionName":"countGamers","error":{"code":141,"message":"response.success is not a function"},"params":{"level":"20\n"},"level":"error","message":"Failed running cloud function countGamers for user undefined with:\n  Input: {\"level\":\"20\\n\"}\n  Error: {\"code\":141,\"message\":\"response.success is not a function\"}","timestamp":"2018-09-16T09:36:14.103Z"}
+{"code":141,"message":"response.success is not a function","level":"error","timestamp":"2018-09-16T09:36:14.106Z"}

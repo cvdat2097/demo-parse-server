@@ -72,3 +72,11 @@ response:
 // success
 {}
 ```
+# How to use Cloud functions (Custom functions)
+Parameters is passed in the body of POST request.
+```
+curl -X POST \
+-H "X-Parse-Application-Id: myAppId" \
+-H "Content-Type: application/json" \
+http://localhost:1337/parse/functions/countGamers
+```
