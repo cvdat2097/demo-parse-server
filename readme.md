@@ -49,6 +49,7 @@ response:
 curl -X PUT \
   -H "X-Parse-Application-Id: myAppId" \
   -H "Content-Type: application/json" \
+  -d '{"level":73453}' \
   https://localhost:3000/classes/Gamers/Ac8lfqFl6c
 ```
 response:
@@ -64,7 +65,6 @@ response:
 curl -X DELETE \
   -H "X-Parse-Application-Id: myAppId" \
   -H "Content-Type: application/json" \
-  -d '{"level":73453}' \
   https://localhost:3000/classes/Gamers/Ac8lfqFl6c
 ```
 response:
